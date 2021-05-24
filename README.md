@@ -1,2 +1,4 @@
 # weather-service-webapp
-Web application that provides continuous, real time information and reports on weather conditions.
+
+A sample Weather Service Web Application for QA Automation testing purposes.
+
